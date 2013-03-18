@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStack", "BookStack\BookStack.csproj", "{71D28F04-3CC3-483C-84AB-975EA5B1F574}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{2426CCC2-D3E6-4C5A-A05B-6F550EBEAB00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2426CCC2-D3E6-4C5A-A05B-6F550EBEAB00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2426CCC2-D3E6-4C5A-A05B-6F550EBEAB00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2426CCC2-D3E6-4C5A-A05B-6F550EBEAB00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2426CCC2-D3E6-4C5A-A05B-6F550EBEAB00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71D28F04-3CC3-483C-84AB-975EA5B1F574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D28F04-3CC3-483C-84AB-975EA5B1F574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D28F04-3CC3-483C-84AB-975EA5B1F574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D28F04-3CC3-483C-84AB-975EA5B1F574}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = BookStack\BookStack.csproj
+		outputpath = BookStack\bin\
+	EndGlobalSection
+EndGlobal
