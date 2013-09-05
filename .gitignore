@@ -8,11 +8,13 @@
 *.mlpd
 *.userprefs
 *.resources
+*.nupkg
 *~
 
 bin/
 obj/
 test-results/
+packages/
 .directory
 .svn
 

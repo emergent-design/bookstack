@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>BookStack</id>
+    <version>1.0.0</version>
+    <authors>Dan Parnham</authors>
+    <owners>Emergent Design Ltd</owners>
+    <licenseUrl>http://github.com/emergent-design/bookstack/blob/master/LICENCE</licenseUrl>
+    <projectUrl>http://github.com/emergent-design/bookstack</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Extension functions for BookSleeve that provide simple object storage.</description>
+    <releaseNotes>
+	* 1.0.0    - Initial release
+    </releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <tags>Redis NoSQL BookSleeve</tags>
+    <dependencies>
+      <dependency id="BookSleeve" />
+      <dependency id="ServiceStack.Text" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="BookStack/bin/Release/BookStack.dll" target="lib" />
+  </files>
+</package>

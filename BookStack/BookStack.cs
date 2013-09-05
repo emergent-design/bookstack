@@ -1,5 +1,5 @@
 // Copyright (c) 2013, Emergent Design Ltd. All rights reserved. Use of this source code
-// is governed by a BSD-style licence that can be found in the LICENSE file.
+// is governed by a BSD-style licence that can be found in the LICENCE file.
 
 using System;
 using System.Linq;
