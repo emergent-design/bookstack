@@ -25,6 +25,8 @@ All typenames are converted to lower-case.
 Installation
 ------------
 
+Available through [nuget](http://www.nuget.org/packages/BookStack/).
+
 You can either reference the tiny library or include the single source file within your solution. In either
 case the extension functions become available via the standard RedisConnection.
 
